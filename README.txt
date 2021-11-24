@@ -17,3 +17,8 @@ git log
 git checkout 1234567
 
 git checkout -
+
+
+1. fork : 원본저장소를 복사해서 원격저장소를 만든다.
+2. pull request : 원격저장소에서 원본저장소로 풀 리퀘스트를 보낸다
+3. rebase : 묵은 커밋을 새 커밋으로 이력조작
