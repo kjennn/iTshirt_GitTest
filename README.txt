@@ -4,7 +4,7 @@ push :  로컬저장소의 커밋을 원격저장소로 올리는 일
 
 clone :  원격저장소를 로컬저장소로 옮기는 일
 
-git add REAME.txt
+git add README.txt
 
 git commit -m "커밋메세지"
 
